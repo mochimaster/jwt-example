@@ -1,0 +1,6 @@
+node_modules/
+.idea/encodings.xml
+.idea/jwt.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
